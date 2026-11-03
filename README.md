@@ -130,8 +130,6 @@ flutter run -d chrome --dart-define-from-file=env.json       # navegador
 flutter run -d <id-del-celular> --dart-define-from-file=env.json
 ```
 
-> En el navegador la app funciona, pero **no hay notificaciones**: los recordatorios solo funcionan en Android e iOS.
-
 ---
 
 ## Pruebas
