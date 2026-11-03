@@ -104,7 +104,7 @@ En Supabase abre **SQL Editor › New query**, pega todo el contenido de [`supab
 
 ### 3. Variables de entorno
 
-Crea un archivo `env.json` en la raíz del proyecto. Ya está en `.gitignore`, así que **no lo subas a GitHub**:
+Crea un archivo `env.json` en la raíz del proyecto. Ya está en `.gitignore`:
 
 ```json
 {
